@@ -1,6 +1,5 @@
 # Netflix Clone
 
-<<<<<<< HEAD
 Netflix Clone is a responsive web application built with React and Vite that replicates the core Netflix UI, allowing users to browse categories of movies and TV shows fetched from the TMDB API and watch trailers.  
 [![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://netflix-clone.tiagopimenta.pt)
 
@@ -22,28 +21,6 @@ Netflix Clone is a responsive web application built with React and Vite that rep
 - `movie-trailer` for fetching trailer URLs
 - CSS Modules (or plain CSS) for styling
 - TMDB API for movie data
-=======
-Netflix Clone is a responsive web application built with React and Vite that replicates the core Netflix UI, allowing users to browse categories of movies and TV shows fetched from the TMDB API and watch trailers.
-
-## Features
-
-- Responsive navigation bar with scroll-based styling  
-- Hero banner showcasing a featured Netflix original  
-- Horizontal scrollable rows of movies by category (Trending, Top Rated, Action, Comedy, Horror, Romance, Documentaries)  
-- Clickable movie posters open a trailer modal using `react-youtube` and `movie-trailer`  
-- Configurable category endpoints in `requests.js`  
-- Smooth animations and responsive design  
-
-## Technologies
-
-- React (v19)  
-- Vite for development and build tooling  
-- Axios for HTTP requests  
-- `react-youtube` for embedding trailers  
-- `movie-trailer` for fetching trailer URLs  
-- CSS Modules (or plain CSS) for styling  
-- TMDB API for movie data  
->>>>>>> 32a650862ec4b702457258e161af868d2ca240c9
 
 ## Project Structure
 
@@ -76,13 +53,8 @@ netflix-clone/
 
 ### Prerequisites
 
-<<<<<<< HEAD
 - Node.js (>=14.x)
 - npm or yarn
-=======
-- Node.js (>=14.x)  
-- npm or yarn  
->>>>>>> 32a650862ec4b702457258e161af868d2ca240c9
 
 ### Clone the Repository
 
