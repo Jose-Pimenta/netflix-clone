@@ -54,7 +54,7 @@ netflix-clone/
 ### Prerequisites
 
 - Node.js (>=14.x)
-- npm or yarn
+- npm
 
 ### Clone the Repository
 
@@ -67,8 +67,6 @@ cd netflix-clone
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ### Environment Variables
@@ -85,8 +83,6 @@ Sign up at [TMDB](https://www.themoviedb.org/) to obtain an API key.
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open `http://localhost:5173` in your browser.
@@ -95,11 +91,7 @@ Open `http://localhost:5173` in your browser.
 
 ```bash
 npm run build
-# or
-yarn build
 npm run preview
-# or
-yarn preview
 ```
 
 ## Contributing
