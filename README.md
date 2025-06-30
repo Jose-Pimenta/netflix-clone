@@ -32,19 +32,29 @@ netflix-clone/
 │   └── favicon.ico
 ├── src/
 │   ├── components/
-│   │   ├── Nav.jsx
-│   │   ├── Nav.css
-│   │   ├── Banner.jsx
-│   │   ├── Banner.css
-│   │   ├── Row.jsx
-│   │   └── Row.css
-│   ├── requests.js
+│   │   ├── Footer.jsx
+│   │   ├── Footer.css
+│   │   ├── Navbar.jsx
+│   │   ├── Navbar.css
+│   │   ├── TitleCards.jsx
+│   │   └── TitleCards.css
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Home.css
+│   │   ├── Login.jsx
+│   │   ├── Login.css
+│   │   ├── Player.jsx
+│   │   └── Player.css
+│   ├── config.js
 │   ├── App.jsx
 │   ├── main.jsx
+│   ├── firebase.js
 │   └── index.css
-├── How_to_Run_Project_Netflix_Clone.pdf
 ├── .eslintrc.cjs
+├── README.md
+├── index.html
 ├── .gitignore
+├── vercel.json
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
