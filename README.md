@@ -11,6 +11,7 @@ Netflix Clone is a responsive web application built with React and Vite that rep
 - Clickable movie posters open a trailer modal using `react-youtube` and `movie-trailer`
 - Configurable category endpoints in `requests.js`
 - Smooth animations and responsive design
+- Responsive design for mobile and desktop
 
 ## Technologies
 
